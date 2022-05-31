@@ -1,3 +1,4 @@
+
 # ***MathematicalModelling***
 ## ___My project at the university which simulates the operation of a real system.___
 ##
@@ -6,4 +7,3 @@
 
 ### 2. ***Examples*** - few system responses.
 ![image](https://user-images.githubusercontent.com/81360555/171273727-7ab654fb-fd13-4cd4-8362-22fc282c7776.png)
-
