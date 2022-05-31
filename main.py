@@ -122,7 +122,7 @@ if __name__ == '__main__':
     sym = SymScreen()
     widget = QStackedWidget()
     widget.addWidget(sym)
-    widget.setWindowTitle("MMM - Weronika Kapusta, Łukasz Chlipała")
+    widget.setWindowTitle("MMM")
     widget.setWindowIcon(QtGui.QIcon("img//manager.png"))
     widget.setFixedHeight(631)
     widget.setFixedWidth(761)
